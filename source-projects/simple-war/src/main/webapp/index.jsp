@@ -14,16 +14,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Windows User</o:Author>
   <o:LastAuthor>Windows User</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>0</o:TotalTime>
+  <o:Revision>7</o:Revision>
+  <o:TotalTime>4</o:TotalTime>
   <o:Created>2020-11-11T06:52:00Z</o:Created>
-  <o:LastSaved>2020-11-11T06:52:00Z</o:LastSaved>
+  <o:LastSaved>2020-11-11T06:56:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>5</o:Words>
-  <o:Characters>31</o:Characters>
+  <o:Characters>35</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>35</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>39</o:CharactersWithSpaces>
   <o:Version>14.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -378,6 +378,8 @@ div.WordSection1
 <div class=WordSection1>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Hi AB<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Bye<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
